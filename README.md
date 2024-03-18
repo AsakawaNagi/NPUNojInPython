@@ -1,0 +1,2 @@
+# NPUNojInPython
+一个大一菜菜xdx学习python的一点点记录！主要是留给自己以后回忆的hh
