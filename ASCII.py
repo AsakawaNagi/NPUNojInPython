@@ -1,0 +1,6 @@
+a = eval(input())
+b = input()
+a = chr(a)
+b = ord(b)
+print(a, end=' ')
+print(b)
